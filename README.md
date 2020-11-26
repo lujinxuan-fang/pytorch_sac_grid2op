@@ -1,4 +1,5 @@
-# Pytorch SAC
+# Pytorch SAC - Grid2op
+Adapted from  domingoesteban/pytorch_sac. For use in Grid2op.
 
 > Pytorch implementation of Soft Actor-Critic Algorithm
 
@@ -9,6 +10,7 @@ framework.
 Paper: Haarnoja, T., Zhou, A., Abbeel, P., Levine, S. (2018), 
 [*Soft Actor-Critic: Off-Policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor*](https://arxiv.org/abs/1801.01290)
 
+# Original 
 
 ## Installation
 
